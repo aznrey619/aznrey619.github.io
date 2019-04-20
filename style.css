@@ -1,0 +1,33 @@
+img{
+    width:75%;
+}
+
+a{
+    color: #009933;
+    text-decoration: none;
+    font-family: 'oswald', 'serif';
+    padding: 10px; 
+    align-content: center; 
+    margin: 10px; 
+    text-align: center;     
+}
+
+body{
+    text-align: center; 
+}
+
+li{
+    display: inline-block;
+}
+
+h1{
+    font-family: 'oswald', 'serif';
+}
+
+p{
+    font-family: 'oswald', 'serif';
+}
+
+h2{
+    font-family: 'oswald', 'serif';
+}
